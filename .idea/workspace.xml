@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caeca9c1-f81a-49b9-8a00-8796fa23578e" name="Changes" comment="" />
+    <list default="true" id="caeca9c1-f81a-49b9-8a00-8796fa23578e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BaiTap_FormDangKiNguoiDung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,20 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HP/Desktop/Codegym/Module-01-bootcamp-preparation-with-javascript/Source/lesson-05-html-form-&-table/Exercise-05",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JavaScript Debug.TimKiemGoogle.html">
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.BaiTap_FormDangKiNguoiDung.html">
+    <configuration name="BaiTap_FormDangKiNguoiDung.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exercise-05/BaiTap_FormDangKiNguoiDung.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="From tim kiem Google.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Exercise_Tạo form tìm kiếm google/From tim kiem Google.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -51,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.BaiTap_FormDangKiNguoiDung.html" />
         <item itemvalue="JavaScript Debug.TimKiemGoogle.html" />
         <item itemvalue="JavaScript Debug.From tim kiem Google.html" />
       </list>
@@ -66,6 +74,7 @@
       <updated>1670490599035</updated>
       <workItem from="1670490600446" duration="2928000" />
       <workItem from="1670494102800" duration="110000" />
+      <workItem from="1670634331677" duration="847000" />
     </task>
     <servers />
   </component>
